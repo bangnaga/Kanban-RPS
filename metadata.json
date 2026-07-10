@@ -1,0 +1,6 @@
+{
+  "name": "Kanban Pembelajaran OBE",
+  "description": "Aplikasi papan Kanban interaktif untuk merancang, melaksanakan, dan mengevaluasi aktivitas pembelajaran serta asesmen berbasis Outcome-Based Education (OBE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
